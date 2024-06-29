@@ -24,10 +24,10 @@ export default function Header() {
           data-aos-duration="500"
           data-aos-delay="0"
         >
-          <a href="/">
+          <a href="https://github.com/haikallfikrii">
             <BsGithub />
           </a>
-          <a href="/">
+          <a href="https://www.linkedin.com/in/muhamad-fikri-haikal-0127aa2a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
             <BsLinkedin />
           </a>
         </div>
