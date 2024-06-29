@@ -32,7 +32,7 @@ export default function Banner() {
           </div>
         </div>
         <div className="max-w-[750px] text-center mx-auto mt-5">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto ea, repudiandae, exercitationem cum corporis nobis perferendis vero aut fugiat ad amet nihil, dolorum similique veniam! Iure cum omnis quas et?
+        An experienced Web Developer with expertise in HTML, CSS, Javascript, PHP, React.js, and Node.js. I also specialize in using WordPress CMS to create high-quality websites while keeping costs low.
         </div>
       </div>
     </div>
