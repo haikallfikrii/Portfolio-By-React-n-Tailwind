@@ -32,7 +32,7 @@ export default function Banner() {
           </div>
         </div>
         <div className="max-w-[750px] text-center mx-auto mt-5">
-        An experienced Web Developer with expertise in HTML, CSS, Javascript, PHP, React.js, and Node.js. I also specialize in using WordPress CMS to create high-quality websites while keeping costs low.
+        I am a seasoned Web Developer with expertise in HTML, CSS, JavaScript, PHP, React.js, and Node.js. I specialize in leveraging WordPress CMS to create high-quality websites efficiently and cost-effectively. My passion is crafting dynamic, responsive sites that look stunning and perform seamlessly. Let’s connect and transform your web ideas into reality with style and functionality!
         </div>
       </div>
     </div>
