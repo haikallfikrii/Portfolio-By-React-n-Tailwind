@@ -3,8 +3,8 @@ import React from "react"
 export default function Profile() {
   return (
     <div id="profile" className="section">
-      <div className="container mx-auto max-w-[1200px] p-3 overflow-hidden">
-        <div className="mb-12 font-bold text-center font-secondary">
+      <div className="container mx-auto max-w-[1200px] p-3 overflow-hidden mt-[70px]">
+        <div className="mb-2 font-bold text-center font-secondary">
           <h4 className="">Awesome Skill</h4>
           <div className="text-gradient font-primary max-w-[700px] mx-auto text-left text-center">
           An experienced Web Developer with expertise in HTML, CSS, Javascript, PHP, React.js, and Node.js. I also specialize in using WordPress CMS to create high-quality websites while keeping costs low.
