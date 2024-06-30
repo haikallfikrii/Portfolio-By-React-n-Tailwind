@@ -4,7 +4,12 @@ export default function Portfolio() {
   return (
     <div id="portfolio" className="section">
       <div className="container mx-auto max-w-[1200px] px-3 pt-3 pb-20">
-        <div className="flex flex-col justify-between lg:flex-row mb-[50px] lg:align-center">
+        <div
+          className="flex flex-col justify-between lg:flex-row mb-[50px] lg:align-center"
+          data-aos="fade-right"
+          data-aos-duration="1000"
+          data-aos-easing="linear"
+        >
           <div className="order-2 mt-[79px] lg:order-1">
             <h4 className="text-secondary font-secondary text-[24px]">
               Recent To Work
@@ -23,7 +28,12 @@ export default function Portfolio() {
           </div>
         </div>
 
-        <div className="grid grid-cols-2 gap-4 text-center lg:grid-cols-4">
+        <div
+          className="grid grid-cols-2 gap-4 text-center lg:grid-cols-4"
+          data-aos="fade-left"
+          data-aos-duration="1000"
+          data-aos-easing="linear"
+        >
           <div className="w-full">
             <div className="relative flex items-center justify-center w-full h-full p-5 overflow-hidden bg-white rounded-lg group">
               <img src="/images/port1.png" alt="" />
@@ -40,7 +50,7 @@ export default function Portfolio() {
               </div>
             </div>
           </div>
-          
+
           <div className="w-full">
             <div className="relative flex items-center justify-center w-full h-full p-5 overflow-hidden bg-white rounded-lg group">
               <img src="/images/port2.png" alt="" />

@@ -9,7 +9,7 @@ export default function Header() {
           className="text-gradient font-secondary"
           data-aos="fade-right"
           data-aos-easing="ease-in-sine"
-          data-aos-duration="500"
+          data-aos-duration="900"
           data-aos-delay="0"
         >
           <a href="/">
@@ -21,7 +21,7 @@ export default function Header() {
           className="flex items-center space-x-3"
           data-aos="fade-left"
           data-aos-easing="ease-in-sine"
-          data-aos-duration="500"
+          data-aos-duration="900"
           data-aos-delay="0"
         >
           <a href="https://github.com/haikallfikrii">
