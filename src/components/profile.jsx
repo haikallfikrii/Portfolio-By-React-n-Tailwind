@@ -4,14 +4,27 @@ export default function Profile() {
   return (
     <div id="profile" className="section">
       <div className="container mx-auto max-w-[1200px] p-3 overflow-hidden mt-[70px]">
-        <div className="mb-2 font-bold text-center font-secondary">
-          <h4 className="">Awesome Skill</h4>
+        <div
+          className="mb-2 font-bold text-center font-secondary"
+          data-aos="zoom-in-up"
+          data-aos-duration="1000"
+          data-aos-easing="linear"
+        >
+          <h4 className="text-secondary">Awesome Skill</h4>
           <div className="text-gradient font-primary max-w-[700px] mx-auto text-left text-center">
-          An experienced Web Developer with expertise in HTML, CSS, Javascript, PHP, React.js, and Node.js. I also specialize in using WordPress CMS to create high-quality websites while keeping costs low.
+            An experienced Web Developer with expertise in HTML, CSS,
+            Javascript, PHP, React.js, and Node.js. I also specialize in using
+            WordPress CMS to create high-quality websites while keeping costs
+            low.
           </div>
         </div>
         <div className="flex flex-col items-start justify-between lg:flex-row">
-          <div className="w-full text-center max-w-[400px] mx-auto mb-[50px]">
+          <div
+            className="w-full text-center max-w-[400px] mx-auto mb-[50px]"
+            data-aos="fade-right"
+            data-aos-duration="1000"
+            data-aos-easing="linear"
+          >
             <div className="min-w-[300px] min-h-[300px] bg-gradient pt-[50px] rounded-full overflow-hidden">
               <img src="/images/profile.png" alt="" />
             </div>
@@ -19,7 +32,12 @@ export default function Profile() {
               MUHAMAD FIKRI HAIKAL
             </h2>
           </div>
-          <div className="w-full lg:pt-[50px] lg:ml-5">
+          <div
+            className="w-full lg:pt-[50px] lg:ml-[50px]"
+            data-aos="fade-left"
+            data-aos-duration="1000"
+            data-aos-easing="linear"
+          >
             <div className="grid grid-cols-2 gap-4 text-center lg:grid-cols-4">
               <div className="w-full ">
                 <div className="relative flex items-center justify-center h-full p-5 overflow-hidden bg-white rounded-lg group">
