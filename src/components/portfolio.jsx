@@ -15,14 +15,16 @@ export default function Portfolio() {
               Recent To Work
             </h4>
             <div className="text-gradient font-primary max-w-[700px] mx-auto text-[15px]">
-              Praesentium consequatur corporis unde voluptates fugit libero
-              consequuntur ducimus debitis exercitationem ratione obcaecati, eos
-              magnam, eaque pariatur et repellat maxime laborum!
+              The following is my portfolio in developing websites including
+              those made with HTML5, Tailwind.css, React.js. Apart from that,
+              there are also websites that are built with CMW WordPress with
+              Elementor Page Builder to make it more efficient and save money
+              and time.
             </div>
           </div>
           <div className="order-1 text-center lg:order-2 mt-[70px]">
             <h2 className="text-gradient font-primary max-w-[700px] mx-auto text-[50px]">
-              07{" "}
+              10+{" "}
             </h2>
             <div>Completed Projects</div>
           </div>
@@ -43,8 +45,8 @@ export default function Portfolio() {
                     <h4 className="text-gradient">Web Blog</h4>
                   </div>
                   <p>
-                    Error harum temporibus quod provident dicta blanditiis
-                    debitis dolores consectetur, obcaecati quasi ipsam.
+                    I have experience in creating blog websites using React.js,
+                    Tailwind.css and Vite with trendy modern designs.
                   </p>
                 </div>
               </div>
@@ -74,11 +76,10 @@ export default function Portfolio() {
               <div className="absolute flex items-center w-full h-full p-5 transition opacity-0 bg-primary group-hover:opacity-100">
                 <div className="w-full text-center text-white mt-[-60px] group-hover:mt-[0] transition-all">
                   <div className="inline-block px-5 mb-2 bg-white rounded-full">
-                    <h4 className="text-gradient">Web Blog</h4>
+                    <h4 className="text-gradient">Personal Portfolio</h4>
                   </div>
                   <p>
-                    Error harum temporibus quod provident dicta blanditiis
-                    debitis dolores consectetur, obcaecati quasi ipsam.
+                  This is my personal portfolio website which was developed by CMS WordPress with the Elementor page builder.
                   </p>
                 </div>
               </div>
