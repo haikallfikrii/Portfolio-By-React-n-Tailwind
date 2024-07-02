@@ -62,8 +62,9 @@ export default function Portfolio() {
                     <h4 className="text-gradient">Ecommerce Web</h4>
                   </div>
                   <p>
-                    Error harum temporibus quod provident dicta blanditiis
-                    debitis dolores consectetur, obcaecati quasi ipsam.
+                    This website is very suitable to make things easier for
+                    sellers, where buyers can place orders and have automatic
+                    delivery.
                   </p>
                 </div>
               </div>
@@ -79,7 +80,8 @@ export default function Portfolio() {
                     <h4 className="text-gradient">Personal Portfolio</h4>
                   </div>
                   <p>
-                  This is my personal portfolio website which was developed by CMS WordPress with the Elementor page builder.
+                    This is my personal portfolio website which was developed by
+                    CMS WordPress with the Elementor page builder.
                   </p>
                 </div>
               </div>
@@ -92,11 +94,11 @@ export default function Portfolio() {
               <div className="absolute flex items-center w-full h-full p-5 transition opacity-0 bg-primary group-hover:opacity-100">
                 <div className="w-full text-center text-white mt-[-60px] group-hover:mt-[0] transition-all">
                   <div className="inline-block px-5 mb-2 bg-white rounded-full">
-                    <h4 className="text-gradient">Web Blog</h4>
+                    <h4 className="text-gradient">Kids Health</h4>
                   </div>
                   <p>
-                    Error harum temporibus quod provident dicta blanditiis
-                    debitis dolores consectetur, obcaecati quasi ipsam.
+                    A website to facilitate consultations between baby's parents
+                    and doctors and patients can also book treatment schedules.{" "}
                   </p>
                 </div>
               </div>
@@ -109,11 +111,12 @@ export default function Portfolio() {
               <div className="absolute flex items-center w-full h-full p-5 transition opacity-0 bg-primary group-hover:opacity-100">
                 <div className="w-full text-center text-white mt-[-60px] group-hover:mt-[0] transition-all">
                   <div className="inline-block px-5 mb-2 bg-white rounded-full">
-                    <h4 className="text-gradient">Web Blog</h4>
+                    <h4 className="text-gradient">Booking Web</h4>
                   </div>
                   <p>
-                    Error harum temporibus quod provident dicta blanditiis
-                    debitis dolores consectetur, obcaecati quasi ipsam.
+                    This is a website for a reflexology clinic that explains the
+                    details of its services, and there is also a booking
+                    feature.
                   </p>
                 </div>
               </div>
@@ -126,11 +129,11 @@ export default function Portfolio() {
               <div className="absolute flex items-center w-full h-full p-5 transition opacity-0 bg-primary group-hover:opacity-100">
                 <div className="w-full text-center text-white mt-[-60px] group-hover:mt-[0] transition-all">
                   <div className="inline-block px-5 mb-2 bg-white rounded-full">
-                    <h4 className="text-gradient">Web Blog</h4>
+                    <h4 className="text-gradient">Modern Design</h4>
                   </div>
                   <p>
-                    Error harum temporibus quod provident dicta blanditiis
-                    debitis dolores consectetur, obcaecati quasi ipsam.
+                    A modern landing page design contains application release
+                    advertisements and detailed feature information.
                   </p>
                 </div>
               </div>
@@ -143,11 +146,10 @@ export default function Portfolio() {
               <div className="absolute flex items-center w-full h-full p-5 transition opacity-0 bg-primary group-hover:opacity-100">
                 <div className="w-full text-center text-white mt-[-60px] group-hover:mt-[0] transition-all">
                   <div className="inline-block px-5 mb-2 bg-white rounded-full">
-                    <h4 className="text-gradient">Web Blog</h4>
+                    <h4 className="text-gradient">Company Profile</h4>
                   </div>
                   <p>
-                    Error harum temporibus quod provident dicta blanditiis
-                    debitis dolores consectetur, obcaecati quasi ipsam.
+                  A website that is the main face of the company with professional design.
                   </p>
                 </div>
               </div>
@@ -160,11 +162,12 @@ export default function Portfolio() {
               <div className="absolute flex items-center w-full h-full p-5 transition opacity-0 bg-primary group-hover:opacity-100">
                 <div className="w-full text-center text-white mt-[-60px] group-hover:mt-[0] transition-all">
                   <div className="inline-block px-5 mb-2 bg-white rounded-full">
-                    <h4 className="text-gradient">Web Blog</h4>
+                    <h4 className="text-gradient">LMS Web App</h4>
                   </div>
                   <p>
-                    Error harum temporibus quod provident dicta blanditiis
-                    debitis dolores consectetur, obcaecati quasi ipsam.
+                    (Lerarnig Management System) website is a system that
+                    provides online courses equipped with a payment gateway
+                    features.
                   </p>
                 </div>
               </div>
