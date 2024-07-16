@@ -41,9 +41,11 @@ export default function Portfolio() {
               <img src="/images/port1.png" alt="" />
               <div className="absolute flex items-center w-full h-full p-5 transition opacity-0 bg-primary group-hover:opacity-100">
                 <div className="w-full text-center text-white mt-[-60px] group-hover:mt-[0] transition-all">
+                  <a href="https://blog-website-9ow7-git-detail-artikel-ahmakbardevs-projects.vercel.app/">
                   <div className="inline-block px-5 mb-2 bg-white rounded-full">
                     <h4 className="text-gradient">Web Blog</h4>
                   </div>
+                  </a>
                   <p>
                     I have experience in creating blog websites using React.js,
                     Tailwind.css and Vite with trendy modern designs.
@@ -58,9 +60,11 @@ export default function Portfolio() {
               <img src="/images/port2.png" alt="" />
               <div className="absolute flex items-center w-full h-full p-5 transition opacity-0 bg-primary group-hover:opacity-100">
                 <div className="w-full text-center text-white mt-[-60px] group-hover:mt-[0] transition-all">
+                  <a href="https://toko-sepatu-amber.vercel.app/">
                   <div className="inline-block px-5 mb-2 bg-white rounded-full">
                     <h4 className="text-gradient">Ecommerce Web</h4>
                   </div>
+                  </a>
                   <p>
                     This website is very suitable to make things easier for
                     sellers, where buyers can place orders and have automatic
@@ -76,9 +80,11 @@ export default function Portfolio() {
               <img src="/images/port3.png" alt="" />
               <div className="absolute flex items-center w-full h-full p-5 transition opacity-0 bg-primary group-hover:opacity-100">
                 <div className="w-full text-center text-white mt-[-60px] group-hover:mt-[0] transition-all">
+                  <a href="https://dev-fikri-haikal.pantheonsite.io/">
                   <div className="inline-block px-5 mb-2 bg-white rounded-full">
                     <h4 className="text-gradient">Personal Portfolio</h4>
                   </div>
+                  </a>
                   <p>
                     This is my personal portfolio website which was developed by
                     CMS WordPress with the Elementor page builder.
@@ -93,12 +99,13 @@ export default function Portfolio() {
               <img src="/images/port4.png" alt="" />
               <div className="absolute flex items-center w-full h-full p-5 transition opacity-0 bg-primary group-hover:opacity-100">
                 <div className="w-full text-center text-white mt-[-60px] group-hover:mt-[0] transition-all">
+                  <a href="https://todolist-app-two-jet.vercel.app/">
                   <div className="inline-block px-5 mb-2 bg-white rounded-full">
-                    <h4 className="text-gradient">Kids Health</h4>
+                    <h4 className="text-gradient" >ToDoList App</h4>
                   </div>
+                  </a>
                   <p>
-                    A website to facilitate consultations between baby's parents
-                    and doctors and patients can also book treatment schedules.{" "}
+                  This application is made to record the work that will be done by users created with React.js and Vite to optimize good performance.{" "}
                   </p>
                 </div>
               </div>
